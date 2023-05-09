@@ -103,6 +103,10 @@ layout: default
 
 <Toc></Toc>
 
+```presenter
+This is a presenter note which will show in GitHub as a simple code block.
+```
+
 ---
 transition: slide-up
 
